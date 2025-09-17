@@ -11,3 +11,4 @@ This is a simple colour picker application buit with React
 3. Run 'npm run dev' to start the development server.
 
 ## License
+MIT
